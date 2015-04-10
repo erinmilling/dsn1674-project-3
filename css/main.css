@@ -3,4 +3,22 @@ html{
 }
 h1{
   font-family: 'Pacifico', cursive;
-  }
+  text-align: center;
+}
+nav a{
+  text-align: center;
+  color: black;
+  text-decoration: none;
+}
+nav ol{
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+nav li{
+  border: 3px solid black;
+  width: 15%;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 1em;
+}
