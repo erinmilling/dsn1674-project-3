@@ -6,7 +6,7 @@ html{
 h1{
   font-family: 'Pacifico', cursive;
   text-align: center;
-  padding: .55em 0 .55em 0;
+  padding: .4em 0 .4em 0;
   background: rgba(255,255,255,.80);
   color: rgb(71,100,47);
   margin:0;
@@ -81,7 +81,8 @@ header{
   right: 85px;
 }
 .banner{
-  background-image: url(../images/yummy.jpg);
-  position: absolute;
   width: 100%;
+}
+p{
+  margin: 0;
 }
