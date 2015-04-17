@@ -25,3 +25,30 @@ nav li{
   display: inline-block;
   padding: 1em;
 }
+header{
+  background-image: url(../images/sunset.jpg);
+  position: relative;
+  padding: 10em 0 0 0;
+  width: 100%;
+
+}
+.menu{
+  left: 20px;
+  top: 70px;
+  position: absolute;
+}
+.reviews{
+  top: 0px;
+  left: 50px;
+  position: absolute;
+}
+.location{
+  top: 0px;
+  right: 50px;
+  position: absolute;
+}
+.contact{
+  right: 20px;
+  top: 70px;
+  position: absolute;
+}
