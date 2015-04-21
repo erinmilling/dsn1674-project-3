@@ -150,7 +150,16 @@ dt{
 dd{
   color:rgb(126,208,236);
   font-size: .75em;
-  padding: 0 0 0 2em;
+  padding: 0 0 1em 2em;
   top: -130px;
+  position: relative;
+
+}
+.chili{
+  position: absolute;
+  display: inline-block;;
+  margin-top: -135px;
+}
+.menusection{
   position: relative;
 }
