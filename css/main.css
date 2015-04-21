@@ -89,9 +89,7 @@ header{
 p{
   margin: 0;
 }
-.menubanner {
-  margin: 0;
-}
+
 h2{
   color: white;
   font-family: 'Pacifico', cursive;
@@ -111,4 +109,16 @@ h2{
   top: -135px;
   position: relative;
   padding: 0 0 0 .5em;
+}
+.coconut{
+  width: 50%;
+  float:left;
+  top: -110px;
+  position: relative;
+}
+.rice{
+  width: 50%;
+  float: right;
+  position: relative;
+  top: -110px;
 }
