@@ -41,8 +41,8 @@ nav li{
   width: 15%;
   border-radius: 15px;
   display: inline-block;
-  padding: .75em 1.65em .75em 1em;
-  background: rgba(255,255,255,.79)
+  padding: .5em 1.65em .5em .9em;
+  background: rgba(255,255,255,.79);
 
 }
 header{
@@ -90,8 +90,6 @@ p{
   margin: 0;
 }
 .menubanner {
-  padding: 0 0 0 1em;
-  background: #98B53C;
   margin: 0;
 }
 h2{
@@ -99,9 +97,18 @@ h2{
   font-family: 'Pacifico', cursive;
   font-size: 2em;
   margin: 0;
+  padding: 0 0 0 .75em;
+  background: #98B53C;
 }
 .arrow{
   position: relative;
-  bottom: 90px;
+  bottom: 100px;
   left:110px;
+}
+.link{
+  text-decoration: underline;
+  font-size: 1em;
+  top: -135px;
+  position: relative;
+  padding: 0 0 0 .5em;
 }
