@@ -110,13 +110,13 @@ h2{
   position: relative;
   padding: 0 0 0 .5em;
 }
-.coconut{
+.coconut,.kabob{
   width: 50%;
   float:left;
   top: -110px;
   position: relative;
 }
-.rice{
+.rice,.curry{
   width: 50%;
   float: right;
   position: relative;
@@ -131,10 +131,10 @@ h2{
   padding: 0 1em 0 .5em;
   font-size: 1.15em;
 }
-h3{
+.lunch{
   background-color: rgba(152,181,60,.67);
   color: white;
-  padding: 0 0em 0 .5em;
+  padding: 0 0em 0.12em .5em;
   top: -130px;
   position: relative;
   font-family: 'Pacifico', cursive;
@@ -160,6 +160,21 @@ dd{
   display: inline-block;;
   margin-top: -135px;
 }
-.menusection{
+.menusection,.veggie{
   position: relative;
+
+}
+.veg{
+  background-color: rgba(152,181,60,.67);
+  color: white;
+  padding: 0 0 0.12em .5em;
+  position: relative;
+  font-family: 'Pacifico', cursive;
+  font-size: 1.75em;
+  margin: 0;
+  top:-130px;
+
+}
+.kabob{
+  top:-130px;
 }
