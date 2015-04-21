@@ -120,5 +120,15 @@ h2{
   width: 50%;
   float: right;
   position: relative;
-  top: -110px;
+  top: -130px;
+}
+.weserve{
+  color:rgb(126,208,236);
+  width: 98%;
+  display: inline-block;
+  top: -125px;
+  position: relative;
+  padding: 0 1em 0 .5em;
+  font-size: 1.15em;
+
 }
