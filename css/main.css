@@ -97,36 +97,38 @@ h2{
   margin: 0;
   padding: 0 0 0 .75em;
   background: #98B53C;
+  position: relative;
 }
 .arrow{
   position: relative;
   bottom: 100px;
-  left:110px;
+  float: right;
 }
 .link{
   text-decoration: underline;
   font-size: 1em;
-  top: -135px;
+  top: 0px;
   position: relative;
-  padding: 0 0 0 .5em;
+  padding: .5em 0 1em .5em;
+  width: 100%;
 }
 .coconut,.kabob{
   width: 50%;
   float:left;
-  top: -110px;
+  top: -120px;
   position: relative;
 }
 .rice,.curry{
   width: 50%;
   float: right;
   position: relative;
-  top: -130px;
+  top: -120px;
 }
 .weserve{
   color:rgb(126,208,236);
   width: 98%;
   display: inline-block;
-  top: -125px;
+  top: -115px;
   position: relative;
   padding: 0 1em 0 .5em;
   font-size: 1.15em;
@@ -172,11 +174,20 @@ dd{
   font-family: 'Pacifico', cursive;
   font-size: 1.75em;
   margin: 0 0 1em 0;
-  top:-130px;
+  top:-120px;
   float: left;
   width: 100%;
-
+}
+.reviewh2{
+  background-color: #f46e7d;
+  position: relative;
+  top: -130px;
+}
+.reviewarrow{
+  position: relative;
+  top: -230px;
+  float: right;
 }
 .kabob{
-  top:-130px;
+
 }
