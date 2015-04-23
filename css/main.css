@@ -338,3 +338,7 @@ a:hover{
   top: -630px;
   left: 260px;
 }
+.payment{
+  float: right;
+  width: 50%;
+}
