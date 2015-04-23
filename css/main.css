@@ -301,7 +301,7 @@ a:hover{
   padding: 1em 0 0 .75em;
 
 }
-.monday, .closed, .tues, .openday, .closetime{
+.monday, .closed, .tues, .openday, .closetime, .sat, .nightclose{
   top: -430px;
   position: relative;
   font-size: 1.15em;
@@ -329,6 +329,12 @@ a:hover{
   color:rgb(126,208,236);
   top: -572px;
   left: 260px;
-
-
+}
+.sat{
+  top: -590px;
+}
+.nightclose{
+  color:rgb(126,208,236);
+  top: -630px;
+  left: 260px;
 }
