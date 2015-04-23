@@ -241,4 +241,9 @@ dd{
   top: -325px;
   float: right;
 }
+.map{
+  width: 100%;
+  position: relative;
+  top: -375px;
+}
 }
