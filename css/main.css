@@ -199,4 +199,18 @@ dd{
   padding: 0 0 0 .5em;
   font-size: 1em;
   color: rgb(71,100,47);
+  float: left;
+}
+.star{
+  top:-240px;
+  position: relative;
+  padding: 0 0 0 0;
+  width: 40%;
+}
+.star2{
+  position: relative;
+  float: right;
+  top: -240px;
+  padding: 0 0 0 0;
+  width: 40%;
 }
