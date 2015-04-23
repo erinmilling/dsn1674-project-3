@@ -85,10 +85,10 @@ header{
 }
 .banner{
   width: 100%;
-
 }
 p{
   margin: 0;
+  width: 100%;
 }
 
 h2{
@@ -240,7 +240,7 @@ dd{
 }
 .locationarrow{
   position: relative;
-  top: -325px;
+  top: -330px;
   float: right;
 }
 .map{
@@ -280,12 +280,55 @@ a:hover{
   background-color:#fbd379;
   top: -310px;
 }
-
+.contactarrow{
+  position: relative;
+  top: -410px;
+  float: right;
+}
 .ordernow{
-  top: -300px;
+  top: -430px;
   position: relative;
   padding: 0 0 0 1em;
   font-size: 1.25em;
   color: rgb(71,100,47);
+  clear: both;
+}
+.hours{
+  top: -430px;
+  position: relative;
+  font-size: 1.5em;
+  color: rgb(71,100,47);
+  padding: 1em 0 0 .75em;
+
+}
+.monday, .closed, .tues, .openday, .closetime{
+  top: -430px;
+  position: relative;
+  font-size: 1.15em;
+  color: rgb(71,100,47);
+  padding: 1em 0 0 1em;
+}
+.closed{
+  color: #f46e7d;
+  left: 160px;
+  top: -470px;
+  font-size: 1.10em;
+  padding: 1em 0 0 0em;
+}
+.tues{
+  top: -490px;
+}
+.openday{
+  top: -530px;
+  left: 160px;
+  color:rgb(126,208,236);
+  padding: 1em 0 0 0;
+
+}
+.closetime{
+  color:rgb(126,208,236);
+  top: -572px;
+  left: 260px;
+
 
 }
