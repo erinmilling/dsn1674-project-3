@@ -10,7 +10,7 @@ h1{
   background: rgba(255,255,255,.80);
   color: rgb(71,100,47);
   margin: .52em 0 0 0;
-  font-size: 2.25em;
+  font-size: 2.35em;
 }
 body{
   margin: 0;
@@ -93,9 +93,9 @@ p{
 h2{
   color: white;
   font-family: 'Pacifico', cursive;
-  font-size: 2em;
+  font-size: 2.25em;
   margin: 0;
-  padding: 0 0 0 .75em;
+  padding: 0 0 0 .5em;
   background: #98B53C;
   position: relative;
 }
@@ -150,6 +150,7 @@ dt{
   padding: 0 0 0 2em;
   top: -130px;
   position: relative;
+  clear: both;
 
 }
 dd{
@@ -252,5 +253,25 @@ dd{
   top: -370px;
   float: right;
   padding: 0 1em 0 0;
+  font-size: 1.2em;
 }
+a:hover{
+  color: green;
+}
+.aiyara{
+  color: rgb(71,100,47);
+  top: -340px;
+  position: relative;
+  padding: 0 0 0 1em;
+  font-size: 1.5em;
+  clear: right;
+  }
+.address{
+  color:rgb(126,208,236);
+  top: -335px;
+  position: relative;
+  padding: 0 0 0 1.25em;
+  font-size: 1.25em;
+  width: 40%;
+
 }
