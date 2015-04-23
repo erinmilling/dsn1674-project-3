@@ -236,3 +236,9 @@ dd{
   background-color:#ff8007;
   top: -230px;
 }
+.locationarrow{
+  position: relative;
+  top: -325px;
+  float: right;
+}
+}
