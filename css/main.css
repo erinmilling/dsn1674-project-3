@@ -112,11 +112,9 @@ h2{
   padding: .5em 0 1em .5em;
   width: 100%;
 }
-.coconut,.kabob{
+.coconut{
   width: 50%;
   float:left;
-  top: -120px;
-  position: relative;
 }
 .rice,.curry{
   width: 50%;
@@ -189,5 +187,16 @@ dd{
   float: right;
 }
 .kabob{
-
+  width: 50%;
+  float:left;
+  top: -120px;
+  position: relative;
+}
+.ratings{
+  top: -260px;
+  position: relative;
+  display: inline-block;
+  padding: 0 0 0 .5em;
+  font-size: 1em;
+  color: rgb(71,100,47);
 }
