@@ -193,24 +193,23 @@ dd{
   position: relative;
 }
 .ratings{
-  top: -260px;
+  top: -130px;
   position: relative;
-  display: inline-block;
   padding: 0 0 0 .5em;
-  font-size: 1em;
+  font-size: 1.25em;
   color: rgb(71,100,47);
-  float: left;
+  width: 100%;
+
 }
 .star{
   top:-240px;
   position: relative;
-  padding: 0 0 0 0;
-  width: 40%;
+  padding: 0 .5em 0 .5em;
+  width: 100%;
 }
-.star2{
-  position: relative;
-  float: right;
-  top: -240px;
-  padding: 0 0 0 0;
-  width: 40%;
+.reviewtitle1{
+  width: 50%;
+  font-size: 1em;
+  color: rgb(71,100,47);
+
 }
