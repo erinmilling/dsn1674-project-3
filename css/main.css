@@ -246,4 +246,11 @@ dd{
   position: relative;
   top: -375px;
 }
+.directions{
+  text-decoration: underline;
+  position: relative;
+  top: -370px;
+  float: right;
+  padding: 0 1em 0 0;
+}
 }
