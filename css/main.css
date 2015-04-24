@@ -2,6 +2,7 @@ html{
   font-family: 'Signika Negative', sans-serif;
   margin: 0 auto;
   overflow-x: hidden;
+  height: 300px;
 
 }
 h1{
@@ -15,7 +16,6 @@ h1{
 }
 body{
   margin: 0;
-
 }
 .subhead{
   text-align: center;
@@ -341,4 +341,22 @@ a:hover{
 .visa{
   float: right;
   width: 25%;
+  top: -590px;
+  position: relative;
+}
+.master{
+  float: right;
+  width: 25%;
+  top: -590px;
+  position: relative;
+}
+footer{
+  padding: 1em;
+  background-color:rgb(126,208,236);
+  top: -500px;
+  position: relative;
+  color: white;
+}
+.backtotop{
+  text-decoration: underline;
 }
